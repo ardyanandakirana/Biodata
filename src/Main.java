@@ -28,7 +28,7 @@ public class Biodata {
 
         System.out.println();
 
-        System.out.println("## Data ##");
+        System.out.println("## Biodata ##");
         System.out.println("==========");
         System.out.println("Nama: "             + Nama);
         System.out.println("Tanggal Lahir: "    + Tanggal_Lahir);
